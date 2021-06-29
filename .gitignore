@@ -4,7 +4,7 @@ project.lock.json
 .DS_Store
 *.pyc
 nupkg/
-assets/*
+
 
 # Visual Studio Code
 .vscode
@@ -37,8 +37,4 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
-docker/rabbitmq/data/*
-docker/rabbitmq/logs/*
-
-Database/database-data/
-files/*
+Beholder.Cli/assets/*
